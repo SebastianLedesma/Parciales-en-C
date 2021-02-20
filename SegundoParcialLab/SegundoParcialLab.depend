@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1596339718 source:c:\users\ricardo\desktop\workspacelengc\segundoparciallab\controller.c
+	"Controller.h"
+
+1596027854 c:\users\ricardo\desktop\workspacelengc\segundoparciallab\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
+1596336432 c:\users\ricardo\desktop\workspacelengc\segundoparciallab\linkedlist.h
+
+1596339527 c:\users\ricardo\desktop\workspacelengc\segundoparciallab\vuelo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+
+1596024101 c:\users\ricardo\desktop\workspacelengc\segundoparciallab\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Vuelo.h"
+	"Piloto.h"
+
+1596336439 source:c:\users\ricardo\desktop\workspacelengc\segundoparciallab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1595969207 source:c:\users\ricardo\desktop\workspacelengc\segundoparciallab\parser.c
+	"parser.h"
+
+1596338452 source:c:\users\ricardo\desktop\workspacelengc\segundoparciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+
+1595903315 source:c:\users\ricardo\desktop\workspacelengc\segundoparciallab\utn.c
+	"utn.h"
+
+1595903353 c:\users\ricardo\desktop\workspacelengc\segundoparciallab\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1596338997 source:c:\users\ricardo\desktop\workspacelengc\segundoparciallab\vuelo.c
+	"Vuelo.h"
+
+1596323208 c:\users\ricardo\desktop\workspacelengc\segundoparciallab\piloto.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"utn.h"
+
+1596326428 source:c:\users\ricardo\desktop\workspacelengc\segundoparciallab\piloto.c
+	"Piloto.h"
+

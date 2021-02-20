@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1596636076 source:c:\users\ricardo\desktop\workspacelengc\recuplab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596591214 c:\users\ricardo\desktop\workspacelengc\recuplab\linkedlist.h
+
+1596597750 source:c:\users\ricardo\desktop\workspacelengc\recuplab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+
+1596591012 c:\users\ricardo\desktop\workspacelengc\recuplab\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"utn.h"
+
+1596592921 c:\users\ricardo\desktop\workspacelengc\recuplab\logentry.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596590114 source:c:\users\ricardo\desktop\workspacelengc\recuplab\controller.c
+	"Controller.h"
+
+1596591092 c:\users\ricardo\desktop\workspacelengc\recuplab\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LogEntry.h"
+
+1596585733 source:c:\users\ricardo\desktop\workspacelengc\recuplab\logentry.c
+	"LogEntry.h"
+
+1596407208 source:c:\users\ricardo\desktop\workspacelengc\recuplab\utn.c
+	"utn.h"
+
+1596407114 c:\users\ricardo\desktop\workspacelengc\recuplab\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1596410393 source:c:\users\ricardo\desktop\workspacelengc\recuplab\parser.c
+	"parser.h"
+

@@ -1,0 +1,4 @@
+11/08/2020;09:33;ServicioClientes.exe;Out of memory;3
+11/08/2020;09:56;ServiceNotifications.exe;Log error;3
+14/08/2020;09:33;ServicioClientes.exe;Out of memory;3
+18/08/2020;21:25;ServiceNotifications.exe;Log error;3

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1591236193 source:c:\users\ricardo\desktop\workspacelengc\nuevoparcial2020\input.c
+	"Input.h"
+
+1591236151 c:\users\ricardo\desktop\workspacelengc\nuevoparcial2020\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591237034 source:c:\users\ricardo\desktop\workspacelengc\nuevoparcial2020\chofer.c
+	"Chofer.h"
+
+1591235649 c:\users\ricardo\desktop\workspacelengc\nuevoparcial2020\chofer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Input.h"
+
+1591236038 source:c:\users\ricardo\desktop\workspacelengc\nuevoparcial2020\chofer_camion.c
+	<stdio.h>
+	<stdlib.h>
+	"Chofer_Camion.h"
+
+1591237052 c:\users\ricardo\desktop\workspacelengc\nuevoparcial2020\chofer_camion.h
+	"Camion.h"
+
+1591237110 c:\users\ricardo\desktop\workspacelengc\nuevoparcial2020\camion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Input.h"
+	"Chofer.h"
+
+1591236703 source:c:\users\ricardo\desktop\workspacelengc\nuevoparcial2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Chofer_Camion.h"
+
